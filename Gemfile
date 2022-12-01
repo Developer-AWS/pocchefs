@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-gem 'sinatra', '~> 2.0.X'
+gem 'sinatra', '~> 2.2'
 
 group :development do
   gem 'pry-byebug'
